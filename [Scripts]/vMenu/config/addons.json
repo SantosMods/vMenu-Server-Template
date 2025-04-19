@@ -1,0 +1,21 @@
+{
+  "vehicles": [
+    "FHPC3Tahoe",
+    "FHP-16-Exp",
+    "FHP-18-Charger",
+    "FHP-18-Tahoe",
+    "FHP-21-Exp"
+  ],
+  "peds": [
+    "addonpedname1",
+    "addonpedname2"
+  ],
+  "weapons": [
+    "addonweaponname1",
+    "addonweaponname2"
+  ],
+  "weapon_components": [
+    "weapon_component_name_1",
+    "weapon_component_name_2"
+  ]
+}
