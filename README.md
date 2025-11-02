@@ -47,13 +47,6 @@
 
 ---
 
-## Discord Integration Setup
-1. Add your Discord bot token and guild ID to the Badger/DiscordACE config files.
-2. Setup role → ACE mapping using Discord Role IDs.
-3. Restart the respective resources.
-
----
-
 ## Troubleshooting
 | Issue | Check |
 |-------|-------|
